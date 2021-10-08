@@ -37,6 +37,7 @@ berisi foto dan nama laboratorium/fasilitas penunjang jurusan
 
 -Kontak
 berisi no telepon dan sosial media TPS
+Alamat Politeknik Kampar lewat Google Map
 
 -Galeri/ Event
 berisi foto-foto kegiatan di jurusan TPS
