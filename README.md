@@ -20,10 +20,11 @@ Menu : Beranda
        
 Isi Menu
 -Beranda
-Logo TPS
+Logo TPS & Politeknik Kampar
 Profil Jurusan TPS
 Visi dan Misi Jurusan TPS
 Skill Lulusan TPS
+Patner Ship (logonya saja)
 
 -Dosen
 Foto dan biodata dosen pengajar
@@ -39,3 +40,5 @@ berisi no telepon dan sosial media TPS
 
 -Galeri/ Event
 berisi foto-foto kegiatan di jurusan TPS
+
+Footer : Berisi Copyright nama anggota kelompok yang membuat
