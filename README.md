@@ -43,3 +43,9 @@ Alamat Politeknik Kampar lewat Google Map
 berisi foto-foto kegiatan di jurusan TPS
 
 Footer : Berisi Copyright nama anggota kelompok yang membuat
+
+Tugas : 
+-Desi : membuat mockup website, menu beranda dan Dosen.
+-Atiqah : membuat navbar, Footer, menu Galeri dan Laporan
+-Fajar : Menu Fasilitas dan Kontak
+-Beni : PPT dan menu Kurikulum
