@@ -70,11 +70,48 @@ text-align: center;
 
 .banner{
 	padding: 1px;
-	margin-top:250px;
+	margin-top:200px;
 }
 .fixed-nav{
 	overflow: hidden;
 	position: fixed;
 	top: 0;
 	width: 100%;
+}
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	
+}
+
+.column {
+	float: left;
+	width: 30%;
+	padding: 15px;
+	text-align: justify;
+}
+
+.column2{
+	float: left;
+	width: 100%;
+	padding: 15px;
+	text-align: center;
+}
+
+.column3{
+	float: left;
+	width: 64%;
+	padding: 15px;
+	text-align: justify;
+}
+
+.column4 {
+	float: left;
+	width: 47%;
+	padding: 15px;
+	text-align: justify;
 }
