@@ -1,6 +1,6 @@
-# Projek DWB Kelompok 3 TIF 2B
+# Projek DWB Kelompok 2 TIF 2B
 Membuat Website Sederhana
-Kelompok 3
+Kelompok 2
 Kelas TIF 2B
 Tema : Teknik Pengolahan Sawit
 
