@@ -25,26 +25,26 @@ Visi dan Misi Jurusan TPS
 Skill Lulusan TPS
 
 
--Dosen
+-Dosen :
 Foto dan biodata dosen pengajar
 
--Kurikulum
+-Kurikulum :
 berisi mata kuliah setiap semester
 
--Fasilitas
+-Fasilitas :
 berisi foto dan nama laboratorium/fasilitas penunjang jurusan
 
--Kontak
+-Kontak :
 berisi no telepon dan sosial media TPS
 Alamat Politeknik Kampar lewat Google Map
 
--Galeri/ Event
+-Galeri :
 berisi foto-foto kegiatan di jurusan TPS
 
-Footer : Berisi Copyright nama anggota kelompok yang membuat
+Footer : Berisi Copyright nama anggota kelompok yang membuat setiap menu
 
-Tugas : 
+Kontribusi : 
 -Desi : membuat mockup website, menu beranda dan Dosen.
--Atiqah : membuat navbar, Footer, menu Galeri dan Laporan
--Fajar : Menu Fasilitas dan Kontak
--Beni : PPT dan menu Kurikulum
+-Atiqah : membuat navbar, Footer, menu Galeri dan Laporan.
+-Fajar : Menu Fasilitas dan Kontak.
+-Beni : PPT dan menu Kurikulum.
