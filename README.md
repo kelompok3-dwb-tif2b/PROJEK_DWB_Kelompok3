@@ -15,16 +15,15 @@ Menu : Beranda
        Dosen
        Kurikulum
        Fasilitas
-       Galeri/Event (masih dipikirkan)
+       Galeri
        Kontak
        
 Isi Menu
 -Beranda
-Logo TPS & Politeknik Kampar
 Profil Jurusan TPS
 Visi dan Misi Jurusan TPS
 Skill Lulusan TPS
-Patner Ship (logonya saja)
+
 
 -Dosen
 Foto dan biodata dosen pengajar
